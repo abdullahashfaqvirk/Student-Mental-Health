@@ -1,0 +1,86 @@
+Gender,Age,University,Degree Level,Year,Course,CGPA,Residential Status,Campus Mistreat,Sports,Sleep,Field Satisfaction,Uni Workload,Academic Pressure,Financial Pressure,Campus Networking,Depression,Anxiety,Isolation,Future Insecurity,Stress Relief Activities,Field Stress,Stress Score,Stress Level
+0,20,PU,0,2,Data Science,3.0,0,0,1,2,5,4,5,4,3,2,1,1,2,"['Religious', 'Social Connections', 'Entertainment']",1,15,0
+0,20,UET,1,3,Computer Science,3.0,0,0,2,2,5,4,4,1,3,3,3,3,4,['Entertainment'],1,19,1
+0,20,FAST,0,3,Computer Science,2.5,0,0,2,1,5,5,5,3,4,2,3,3,1,"['Religious', 'Fitness', 'Entertainment']",1,18,1
+0,20,UET,0,3,Computer Science,2.5,1,0,1,2,3,5,4,4,1,5,5,5,3,['Entertainment'],3,30,2
+1,20,UET,0,3,Computer Science,3.0,0,1,1,2,3,5,5,2,3,5,5,4,4,['Entertainment'],3,28,2
+1,20,UET,0,3,Computer Science,3.0,0,0,1,2,4,5,5,3,3,5,5,5,5,"['Religious', 'Social Connections', 'Entertainment']",2,30,2
+0,26,PU,1,1,Data Science,2.5,1,1,2,3,4,4,4,5,2,5,4,4,5,"['Social Connections', 'Entertainment']",2,29,2
+0,22,PU,0,2,Data Science,3.0,0,1,1,2,3,4,4,5,4,3,2,2,4,"['Religious', 'Social Connections', 'Entertainment']",3,23,1
+0,20,COMSATS,0,3,Computer Science,2.5,0,1,2,2,3,4,3,4,2,3,4,3,5,"['Religious', 'Social Connections', 'Entertainment', 'Outdoor']",3,26,1
+0,23,COMSATS,0,3,Computer Science,2.5,0,0,1,2,3,5,3,5,1,5,5,5,5,['Fitness'],3,33,2
+0,20,COMSATS,0,2,Computer Science,3.0,1,0,1,2,5,4,4,1,4,3,3,1,3,"['Religious', 'Entertainment']",1,16,0
+0,20,COMSATS,0,3,Computer Science,3.0,0,0,2,2,4,5,4,4,4,2,3,1,2,"['Religious', 'Fitness', 'Social Connections', 'Entertainment', 'Outdoor']",2,19,1
+0,21,COMSATS,0,3,Computer Science,3.5,1,0,1,2,5,3,5,5,1,4,4,4,2,[],1,23,1
+0,19,PU,0,1,Data Science,3.0,0,0,1,2,3,3,4,5,3,5,4,5,1,['Religious'],3,26,1
+1,20,PU,0,1,Data Science,3.0,0,0,1,2,3,3,3,3,2,4,3,5,3,['Religious'],3,24,1
+1,19,PU,0,1,Data Science,3.0,0,1,1,3,5,3,3,4,3,1,1,1,3,"['Religious', 'Social Connections', 'Entertainment']",1,14,0
+1,20,PU,0,1,Data Science,3.0,0,0,1,1,5,4,4,3,1,3,2,3,1,['Social Connections'],1,17,1
+0,19,PU,0,1,Data Science,2.5,0,0,1,3,5,3,5,3,3,2,2,3,1,['Religious'],1,15,0
+1,19,PU,0,1,Data Science,3.5,0,0,2,2,4,4,3,3,2,4,4,3,2,"['Religious', 'Creative Outlets', 'Social Connections']",2,22,1
+0,19,PU,0,1,Data Science,3.5,0,1,2,2,5,4,4,5,3,5,5,4,3,['Fitness'],1,27,1
+1,19,PU,0,1,Data Science,3.0,0,0,2,3,5,4,4,2,3,1,2,2,2,['Social Connections'],1,14,0
+1,19,PU,0,1,Data Science,3.0,0,1,1,2,4,5,5,2,2,4,4,5,5,"['Religious', 'Social Connections']",2,27,1
+0,20,PU,0,2,Data Science,2.5,0,0,1,2,3,5,5,3,3,4,4,3,4,['Outdoor'],3,26,1
+0,20,UET,0,3,Computer Science,3.5,0,0,2,2,5,5,4,5,3,5,5,5,3,"['Religious', 'Entertainment']",1,29,2
+1,19,PU,0,1,Data Science,3.5,0,0,2,2,5,4,4,1,3,3,4,3,3,"['Religious', 'Creative Outlets']",1,19,1
+0,19,PU,0,1,Data Science,3.0,0,0,4,2,5,5,3,5,5,4,1,3,2,"['Religious', 'Fitness', 'Social Connections', 'Entertainment', 'Outdoor']",1,21,1
+0,23,PU,0,2,Data Science,2.5,0,1,2,3,3,3,4,1,4,3,3,2,3,"['Religious', 'Entertainment', 'Outdoor']",3,18,1
+0,20,PU,0,1,Computer Science,1.5,0,1,4,1,1,4,5,5,1,5,5,5,5,['Entertainment'],5,34,2
+0,18,PU,0,1,Data Science,2.5,0,0,3,2,4,3,4,4,4,3,4,4,2,"['Fitness', 'Creative Outlets', 'Entertainment', 'Outdoor']",2,22,1
+0,20,PU,0,1,Data Science,3.5,0,0,3,3,5,5,5,3,5,5,3,3,2,"['Religious', 'Outdoor']",1,22,1
+0,18,PU,0,1,Data Science,3.5,0,0,1,3,5,3,1,1,3,1,2,2,1,[],1,11,0
+0,19,PU,0,1,Data Science,2.0,1,0,1,2,2,4,1,5,3,3,3,3,2,"['Creative Outlets', 'Social Connections', 'Entertainment', 'Outdoor']",4,24,1
+0,18,PU,0,1,Data Science,1.5,1,0,1,2,5,4,5,2,3,4,3,4,4,['Religious'],1,22,1
+1,19,PU,0,1,Data Science,3.0,1,0,1,3,5,4,4,3,2,4,2,3,1,['Creative Outlets'],1,18,1
+1,17,PU,0,1,Computer Science,3.5,1,0,1,2,4,5,5,5,1,5,5,5,3,['Sleep'],2,30,2
+0,18,PU,0,1,Computer Science,3.5,0,0,4,2,3,3,4,5,2,4,3,4,5,"['Religious', 'Fitness', 'Social Connections']",3,27,1
+1,17,PU,0,1,Computer Science,3.5,1,0,1,2,4,4,4,5,3,4,4,5,2,['Religious'],2,26,1
+1,19,PU,0,1,Data Science,3.0,0,0,3,3,5,3,2,2,4,1,2,1,1,['Religious'],1,11,0
+1,18,PU,0,1,Data Science,2.5,0,0,1,2,1,4,5,5,2,5,5,5,5,['Creative Outlets'],5,34,2
+1,19,PU,0,2,Data Science,2.5,1,0,1,1,2,4,4,1,2,3,3,4,3,['Religious'],4,22,1
+1,19,PU,0,2,Data Science,2.5,0,0,2,2,4,4,4,4,1,1,1,1,4,"['Religious', 'Social Connections', 'Entertainment']",2,17,1
+0,18,PU,0,1,Data Science,3.0,0,0,1,3,2,4,4,5,1,5,4,5,5,['Entertainment'],4,32,2
+0,18,PU,0,1,Data Science,3.5,0,1,2,2,4,3,3,2,3,3,3,3,4,['Entertainment'],2,20,1
+0,18,PU,0,1,Computer Science,3.5,0,1,3,3,4,2,2,1,3,1,1,2,3,['Entertainment'],2,12,0
+0,19,NUST,0,3,Computer Science,3.5,1,0,2,3,4,4,4,3,4,2,2,2,4,"['Religious', 'Entertainment', 'Outdoor']",2,19,1
+0,18,PU,0,1,Data Science,0.0,0,0,4,3,4,4,4,4,5,3,3,1,3,['Fitness'],2,20,1
+0,21,PU,0,4,Software Engineering,3.5,0,1,2,2,3,4,5,4,3,5,5,5,5,"['Religious', 'Fitness', 'Creative Outlets', 'Entertainment']",3,31,2
+0,20,PU,0,3,Data Science,3.5,0,1,1,3,4,4,3,1,1,3,3,5,2,['Entertainment'],2,20,1
+0,19,PU,0,1,Computer Science,2.0,1,0,2,2,5,4,5,5,1,3,4,5,1,"['Fitness', 'Creative Outlets', 'Social Connections', 'Outdoor', 'Sleep']",1,23,1
+0,20,PU,0,2,Data Science,3.0,1,0,1,2,5,3,1,5,3,1,1,2,1,['Religious'],1,14,0
+0,21,PU,0,2,Data Science,3.5,1,0,2,2,5,4,3,4,5,2,2,2,3,"['Religious', 'Social Connections', 'Entertainment', 'Sleep']",1,18,1
+0,17,PU,0,1,Information Technology,0.0,0,0,4,3,3,5,5,1,3,4,4,4,5,['Outdoor'],3,26,1
+0,18,PU,0,1,Information Technology,0.0,0,0,4,3,5,3,4,3,5,3,3,3,1,"['Religious', 'Fitness', 'Social Connections']",1,17,1
+0,18,PU,0,1,Information Technology,0.0,0,0,2,2,5,5,3,2,1,2,4,5,2,"['Social Connections', 'Entertainment', 'Sleep']",1,21,1
+0,22,Vu,0,4,Software Engineering,3.0,0,0,2,3,4,4,3,5,1,3,3,4,1,"['Religious', 'Fitness', 'Outdoor']",2,22,1
+0,21,PU,0,2,Data Science,2.5,1,1,3,2,3,4,5,3,4,1,1,1,1,"['Religious', 'Social Connections']",3,14,0
+0,20,COMSATS,0,3,Computer Science,3.5,0,1,3,3,4,3,5,3,3,4,4,4,4,['Outdoor'],2,24,1
+0,19,LIMP,1,4,BS Sexology,0.0,0,0,4,1,5,1,1,1,5,5,5,5,5,"['Religious', 'Fitness', 'Creative Outlets', 'Social Connections', 'Entertainment', 'Outdoor', 'Sleep']",1,23,1
+0,20,PU,0,1,Data Science,0.0,1,0,1,2,4,4,4,5,2,3,2,4,2,['Sleep'],2,22,1
+0,20,PU,0,2,Data Science,3.5,0,0,3,3,5,2,2,1,3,1,1,1,1,"['Religious', 'Social Connections']",1,8,0
+0,21,FAST,0,3,Data Science,2.0,0,0,2,3,3,5,4,1,3,2,2,4,4,"['Religious', 'Fitness']",3,21,1
+0,21,FAST,0,3,Computer Science,2.5,0,0,3,3,4,4,4,2,4,2,2,2,3,['Outdoor'],2,17,1
+0,20,COMSATS,0,3,Computer Science,3.0,0,0,2,2,3,4,3,4,1,1,2,1,3,"['Religious', 'Social Connections', 'Entertainment']",3,18,1
+0,20,UMT,0,3,Computer Science,3.5,0,0,4,3,5,3,4,3,2,4,4,4,5,"['Religious', 'Fitness', 'Social Connections', 'Entertainment', 'Outdoor', 'Sleep']",1,24,1
+1,19,PU,0,2,Electronic Commerce ,3.0,0,0,1,3,4,3,3,3,3,4,4,3,2,"['Religious', 'Social Connections', 'Sleep']",2,21,1
+0,20,COMSATS,0,3,Computer Science,2.5,0,1,2,2,3,4,4,5,3,5,5,5,4,"['Religious', 'Fitness', 'Creative Outlets', 'Entertainment']",3,31,2
+0,20,UMT,0,3,Computer Science,3.5,1,0,1,3,3,3,4,5,3,4,4,4,4,['Social Connections'],3,27,1
+0,20,FAST,0,3,Computer Science,2.5,0,0,2,2,4,5,5,1,5,3,4,1,1,"['Religious', 'Fitness', 'Social Connections', 'Sleep']",2,17,1
+0,20,FAST,0,3,Computer Science,3.5,1,0,1,2,4,5,5,3,3,2,2,3,3,"['Religious', 'Social Connections', 'Entertainment', 'Sleep']",2,20,1
+0,20,FAST,0,3,Computer Science,2.5,1,0,4,2,4,5,5,5,4,3,4,2,3,"['Social Connections', 'Sleep']",2,24,1
+0,19,Uol,0,3,Computer Science,2.5,0,1,3,3,3,2,4,4,4,1,1,3,3,['Outdoor'],3,17,1
+0,22,UET,0,3,Computer Science,2.5,0,0,1,2,4,4,5,4,3,4,4,4,5,['Religious'],2,27,1
+0,20,UET,0,3,Computer Science,3.0,0,0,4,3,4,2,3,4,2,3,3,4,3,"['Religious', 'Fitness', 'Sleep']",2,21,1
+1,20,UET,0,3,Computer Science,3.5,0,0,1,2,5,4,5,4,1,4,5,5,4,['Entertainment'],1,27,1
+1,19,UET,0,3,Computer Science,3.0,1,0,1,2,3,5,5,3,3,5,5,3,5,['Sleep'],3,29,2
+0,21,PU,0,1,Data Science,3.5,0,0,4,3,5,3,3,2,4,1,1,2,2,"['Religious', 'Social Connections']",1,12,0
+0,26,KUST,0,4,Data Science,3.5,0,1,2,3,5,5,1,5,1,5,5,3,5,"['Creative Outlets', 'Social Connections', 'Entertainment']",1,29,2
+1,19,UET,0,3,Computer Science,2.5,0,1,1,2,3,5,5,5,3,4,3,3,4,"['Social Connections', 'Sleep']",3,27,1
+0,22,PU,0,4,Information Technology,3.0,0,0,3,2,5,3,3,3,4,2,2,2,4,"['Social Connections', 'Outdoor']",1,17,1
+0,22,PU,0,4,Information Technology,3.0,0,1,1,2,5,4,2,5,1,5,5,5,3,"['Religious', 'Fitness', 'Entertainment']",1,28,2
+1,21,PU,0,4,Information Technology,3.5,0,1,1,4,3,3,3,3,3,5,5,5,1,['Sleep'],3,25,1
+1,21,PU,0,4,Information Technology,3.0,0,0,1,3,3,4,4,3,4,4,4,2,4,"['Entertainment', 'Sleep']",3,24,1
+0,22,PU,0,4,Information Technology,2.5,0,0,1,3,1,2,2,1,2,2,2,5,2,['Religious'],5,19,1
+0,22,PU,0,4,Information Technology,3.0,1,0,1,3,4,3,1,4,4,2,3,1,2,"['Entertainment', 'Outdoor', 'Sleep']",2,17,1
+1,22,COMSATS,0,4,Software Engineering,3.5,0,1,1,1,5,5,5,5,1,5,5,5,5,"['Religious', 'Sleep']",1,31,2
